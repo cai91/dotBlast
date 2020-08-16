@@ -1,7 +1,7 @@
 dotBlast
 ========
 
-Tool to generate dot plot from BLAST output
+Tool to generate dot plot from BLAST nuleotide output
 
 <b>Requirements:</b>
 * BLAST+ (tested v2.6.0+)
@@ -11,6 +11,10 @@ Tool to generate dot plot from BLAST output
 ```
 dotBlast.py <reference_file> <queries_file> <eval>
 ```
+
+reference_file: FASTA file with reference sequence
+queries_file: FASTA file with query sequences
+eval: Maximum e-value to consider in BLAST alignment
 
 <b>Output:</b>
 ```
