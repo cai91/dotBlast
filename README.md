@@ -22,3 +22,4 @@ Each line represents the x or y component of each alignment in the queries file 
 <query_1_y> <br />
 <query_2_x> <br />
 <query_2_y> <br />
+... <br />
