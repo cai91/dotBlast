@@ -16,8 +16,9 @@ dotBlast.py <reference_file> <queries_file> <eval>
 
 Output file: queries_vs_ref.txt
 
-Each line represents the x or y component of each alignment in the queries file order. E.g.
-<query_1_x>
-<query_1_y>
-<query_2_x>
-<query_2_y>
+Each line represents the x or y component of each alignment in the queries file order. <br />
+
+<query_1_x> <br />
+<query_1_y> <br />
+<query_2_x> <br />
+<query_2_y> <br />
