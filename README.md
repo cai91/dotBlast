@@ -14,7 +14,7 @@ dotBlast.py <reference_file> <queries_file> <eval>
 
 reference_file: FASTA file with reference sequence <br />
 queries_file: FASTA file with query sequences <br />
-eval: Maximum e-value to consider in BLAST alignment <br />
+eval: Maximum E-value to consider in BLAST alignment <br />
 
 <b>Output:</b>
 ```
